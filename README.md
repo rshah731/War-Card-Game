@@ -1,0 +1,1 @@
+Recreated a card game app in Swift by following a YouTube tutorial, learning how to manage game logic, UI components, and event handling in Xcode. The app simulates the classic “War” card game with score tracking and animations.
